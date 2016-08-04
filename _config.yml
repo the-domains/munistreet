@@ -1,4 +1,3 @@
-layout_spectrum: 0.11415058700367808
 typography_spectrum: 0.8941504175309092
 color:
   brandStrength: 0.5519332343246788
@@ -11,5 +10,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
+layout_spectrum: 0.11415058700367808
 name: MuniStreet
 title: MuniStreet
+description: Municipal Bonds Direct to You
